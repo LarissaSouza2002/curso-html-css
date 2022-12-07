@@ -1,0 +1,43 @@
+#banner{
+    width: 100%;
+}
+.principal{
+    background: #bbbbbb;
+    padding: 30px;
+    text-align: center;
+}
+
+em strong{
+    color: red;
+}
+.beneficios{
+    padding: 30px;
+}
+.titulo-centralizado{
+    text-align: center;
+    padding: 25px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagembeneficios{
+    width: 50%;
+}
+.itens {
+    font-style: italic;
+}
+footer{
+    text-align: center;
+        background: url("./img/bg.jpg");
+        padding: 5px 0;
+    
+}
+.copyright{
+    color: white;
+        font-size: 13px;
+        margin: 20px;
+        padding: 20px;
+}
